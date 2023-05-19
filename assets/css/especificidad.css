@@ -15,7 +15,7 @@ h2 ~ p {
     color:aqua;
 }
 
-/*first-cihld | last-child*/
+/*first-cihld | last-child.*/
 div h3:first-child {
     color:brown;
 }
